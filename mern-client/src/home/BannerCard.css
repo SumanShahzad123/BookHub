@@ -1,0 +1,35 @@
+.mySwiper2 {
+  width: 240px;
+  height: 320px;
+}
+
+.mySwiper2-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.mySwiper2-slide:nth-child(1n) {
+  background-image: url(src/assets/Banner-books/banner1.png);
+}
+
+.mySwiper2-slide:nth-child(2n) {
+    background-image: url(src/assets/Banner-books/book2.png);
+}
+
+.mySwiper2-slide:nth-child(3n) {
+    background-image: url(src/assets/Banner-books/book3.png);
+}
+
+.mySwiper2-slide:nth-child(4n) {
+    background-image: url(src/assets/Banner-books/book4.png);
+}
+
+.mySwiper2-slide:nth-child(5n) {
+    background-image: url(src/assets/Banner-books/book5.png);
+}
+

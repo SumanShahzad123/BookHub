@@ -1,0 +1,13 @@
+.mySwiper{
+    overflow: visible !important;
+}
+
+.swiper-pagination-bullet{
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+}
+
+.swiper-pagination{
+    bottom: -25px !important;
+}
