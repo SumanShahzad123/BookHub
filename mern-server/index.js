@@ -5,7 +5,8 @@ import cors from 'cors'
 const app = express()
 const port = process.env.port || 5000
 
-//middle ware
+
+//middle waree
 app.use(cors({
   origin:"http://localhost:5173",
   methods: ['GET','POST','PUT','PATCH','DELETE']
