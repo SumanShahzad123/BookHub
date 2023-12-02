@@ -9,6 +9,7 @@ function App() {
       <NavBar/>
       <div className='min-h-screen'><Outlet/></div>
       <MyFooter/>
+      {/*the finished */}
     </>
   )
 }
