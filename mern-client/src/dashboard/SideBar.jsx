@@ -61,5 +61,6 @@ const SideBar = () => {
     </Sidebar>
   )
 }
+{/*Completed*/}
 
 export default SideBar
