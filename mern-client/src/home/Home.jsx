@@ -15,5 +15,5 @@ const Home = () => {
     </div>
   )
 }
-
+{/*Completed*/}
 export default Home
