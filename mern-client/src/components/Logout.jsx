@@ -25,4 +25,5 @@ const Logout = () => {
         </div>
     )
 }
+{/*Completed*/}
 export default Logout
